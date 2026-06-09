@@ -1,0 +1,7 @@
+- [Início](/)
+- [Guia do Exame (resolvido)](guia_estudo_exame_TVE.md)
+- Fichas
+  - [Ficha 1 — História dos VEs](ficha1_historia.md)
+  - [Ficha 2 — Componentes do VE](ficha2_componentes.md)
+  - [Ficha 3 — Cálculo de Baterias](ficha3_baterias.md)
+  - [Ficha 7 — Potência de Tração](ficha7_potencia_tracao.md)
