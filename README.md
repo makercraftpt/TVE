@@ -14,8 +14,8 @@ Material de estudo para o exame. Usa o menu lateral para navegar.
 | 1 | História dos VEs | ✅ |
 | 2 | Componentes do BEV | ✅ |
 | 3 | Cálculo de baterias | ✅ |
-| 4 | Pilhas de combustível | ⏳ |
-| 5 | Motores e variação de velocidade | ⏳ |
-| 6 | Normas UIC / ferroviário | ⏳ |
+| 4 | Pilhas de combustível | ✅ |
+| 5 | Motores e variação de velocidade | ✅ |
+| 6 | Normas UIC / ferroviário | ✅ |
 | 7 | Potência de tração | ✅ |
-| 8 | Do poço à roda (WTW) | ⏳ |
+| 8 | Do poço à roda (WTW) | ✅ |

@@ -176,11 +176,11 @@ d = 2880 / 60 = **48 km**
 | 1. História dos VEs | T1 (Doc A) | ✅ Ficha 1 (feita) |
 | 2. Componentes do BEV | T1 (arquitetura VEB/VEH/FCEV) | ✅ Ficha 2 (feita) |
 | 3. Cálculo de baterias | Tparte2 (baterias, C-rate, autonomia) | ✅ [Ficha 3](ficha3_baterias.md) |
-| 4. Pilhas de combustível | Tparte2 (FC, PEMFC, H₂) | ⏳ Ficha 4 (pendente) |
-| 5. Motores e variação velocidade | Tparte2 (MIA, PMSM, SRM, inversores) | ⏳ Ficha 5 (pendente) |
-| 6. Normas UIC / ferroviário | Tparte3 (Doc I, L, J — tecnologias ferroviárias) | ⏳ Ficha 6 (pendente) |
+| 4. Pilhas de combustível | Tparte2 (FC, PEMFC, H₂) | ✅ [Ficha 4](ficha4_pilhas_combustivel.md) |
+| 5. Motores e variação velocidade | Tparte2 (MIA, PMSM, SRM, inversores) | ✅ [Ficha 5](ficha5_motores.md) |
+| 6. Normas UIC / ferroviário | Tparte3 (Doc I, L, J — tecnologias ferroviárias) | ✅ [Ficha 6](ficha6_uic.md) |
 | 7. Potência de tração | T1 (A-96 a A-105) + Tparte3 (Doc L/J) | ✅ [Ficha 7](ficha7_potencia_tracao.md) |
-| 8. Do poço à roda (WTW) | T1 (eficiências, emissões) | ⏳ Ficha 8 (pendente) |
+| 8. Do poço à roda (WTW) | T1 (eficiências, emissões) | ✅ [Ficha 8](ficha8_well_to_wheel.md) |
 
 **Fórmulas a saber de cor:**
 

@@ -4,4 +4,8 @@
   - [Ficha 1 — História dos VEs](ficha1_historia.md)
   - [Ficha 2 — Componentes do VE](ficha2_componentes.md)
   - [Ficha 3 — Cálculo de Baterias](ficha3_baterias.md)
+  - [Ficha 4 — Pilhas de Combustível](ficha4_pilhas_combustivel.md)
+  - [Ficha 5 — Motores e Velocidade](ficha5_motores.md)
+  - [Ficha 6 — Normas UIC](ficha6_uic.md)
   - [Ficha 7 — Potência de Tração](ficha7_potencia_tracao.md)
+  - [Ficha 8 — Well-to-Wheel](ficha8_well_to_wheel.md)
