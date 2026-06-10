@@ -1,5 +1,7 @@
 - [Início](/)
-- [Guia do Exame (resolvido)](guia_estudo_exame_TVE.md)
+- Exames resolvidos
+  - [Exame 2011/12 (guia)](guia_estudo_exame_TVE.md)
+  - [Exame 2020/21 (recurso)](exame_2020_21_resolvido.md)
 - Fichas
   - [Ficha 1 — História dos VEs](ficha1_historia.md)
   - [Ficha 2 — Componentes do VE](ficha2_componentes.md)

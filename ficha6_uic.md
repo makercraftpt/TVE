@@ -52,7 +52,16 @@ Designa a disposição dos rodados de uma locomotiva/unidade motora:
 - **Bogies** orientáveis → inscrição em curva, conforto, menor desgaste roda-carril
 - Motores individuais ("o") com transmissão elástica motor-eixo → menos massas não suspensas
 
-## 5. Exercícios de treino
+## 5. Bitolas e alimentação (saiu no exame 2020/21!)
+
+| Rede | Bitola |
+|---|---|
+| **Portugal e Espanha** | **1668 mm** (bitola ibérica) |
+| **França** (e resto da Europa, AV espanhola) | **1435 mm** (standard/UIC) |
+
+**Linha do Norte:** 25 kV, 50 Hz AC. Cadeia da locomotiva elétrica: pantógrafo → disjuntor → transformador → retificador (AC-DC) → barramento DC → inversores → motores de tração (um por eixo) → retorno pelo carril. Ver resolução da Q7 no [exame 2020/21](exame_2020_21_resolvido.md).
+
+## 6. Exercícios de treino
 
 **E1.** O que significa B'B'?
 <details><summary>Solução</summary>

@@ -53,7 +53,18 @@ Na prática, E_disponível < E_nominal: limites de DoD (proteger ciclo de vida),
    - Velocidade muito baixa: auxiliares (≈ constantes no tempo) pesam mais por km
    - ⇒ existe uma **velocidade ótima moderada**
 
-## 6. Exercícios de treino
+## 6. DOD e energia ao longo da vida (saiu no exame 2020/21!)
+
+O ciclo de vida depende da profundidade de descarga: **menor DOD ⇒ mais ciclos**, e o ganho é mais do que proporcional.
+
+**E_vida = DOD × E_célula × n.º de ciclos**
+
+Exemplo (célula LFP 3,2 V / 50 Ah = 160 Wh; 80% DOD ≥ 2000 ciclos; 70% DOD ≥ 3500 ciclos):
+
+- 80% DOD: 0,8×160×2000 = **256 kWh**
+- 70% DOD: 0,7×160×3500 = **392 kWh** → +53%! Por isso os BEVs limitam a janela de SoC.
+
+## 7. Exercícios de treino
 
 **E1.** 8 baterias de 12 V/55 Ah em série. U? E? Autonomia a 150 Wh/km?
 <details><summary>Solução</summary>

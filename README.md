@@ -7,6 +7,7 @@ Material de estudo para o exame. Usa o menu lateral para navegar.
 ## Conteúdo
 
 - **[Guia do Exame](guia_estudo_exame_TVE.md)** — exame exemplo 2011/12 totalmente resolvido, mapa de matérias e fórmulas essenciais
+- **[Exame 2020/21 resolvido](exame_2020_21_resolvido.md)** — época de recurso (8 questões, 12 valores), com matéria nova: poluentes/LCA, DOD e vida útil, bitolas, barcos elétricos
 - **Fichas de estudo** — uma por tema do exame (em construção)
 
 | # | Tema | Estado |
